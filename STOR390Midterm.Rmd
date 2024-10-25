@@ -34,5 +34,4 @@ In conclusion, the paper by Nyberg et al. offers a well-constructed statistical 
 
 References
 
-T. Nyberg, C. Pek, L. Dal Col, C. Norén and J. Tumova, "Risk-aware Motion Planning for Autonomous Vehicles with Safety Specifications," 2021 IEEE Intelligent Vehicles Symposium (IV), Nagoya, Japan, 2021, pp. 1016-1023, doi: 10.1109/IV48863.2021.9575928. keywords: {Road transportation;Computational modeling;Safety;Trajectory;Planning;Random variables;Motion measurement},
-
+[1] T. Nyberg, C. Pek, L. Dal Col, C. Norén, and J. Tumova, "Risk-aware Motion Planning for Autonomous Vehicles with Safety Specifications," *2021 IEEE Intelligent Vehicles Symposium (IV)*, Nagoya, Japan, 2021, pp. 1016-1023, doi: 10.1109/IV48863.2021.9575928.
